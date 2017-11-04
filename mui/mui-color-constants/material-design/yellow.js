@@ -1,0 +1,14 @@
+export const yellow50 = '#fffde7';
+export const yellow100 = '#fff9c4';
+export const yellow200 = '#fff59d';
+export const yellow300 = '#fff176';
+export const yellow400 = '#ffee58';
+export const yellow500 = '#ffeb3b';
+export const yellow600 = '#fdd835';
+export const yellow700 = '#fbc02d';
+export const yellow800 = '#f9a825';
+export const yellow900 = '#f57f17';
+export const yellowA100 = '#ffff8d';
+export const yellowA200 = '#ffff00';
+export const yellowA400 = '#ffea00';
+export const yellowA700 = '#ffd600';

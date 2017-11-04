@@ -1,0 +1,14 @@
+export const orange50 = '#fff3e0';
+export const orange100 = '#ffe0b2';
+export const orange200 = '#ffcc80';
+export const orange300 = '#ffb74d';
+export const orange400 = '#ffa726';
+export const orange500 = '#ff9800';
+export const orange600 = '#fb8c00';
+export const orange700 = '#f57c00';
+export const orange800 = '#ef6c00';
+export const orange900 = '#e65100';
+export const orangeA100 = '#ffd180';
+export const orangeA200 = '#ffab40';
+export const orangeA400 = '#ff9100';
+export const orangeA700 = '#ff6d00';

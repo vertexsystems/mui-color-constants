@@ -1,0 +1,49 @@
+{
+  "name": "mui-color-constants",
+  "version": "0.0.1",
+  "description": "Minimalistic user interface color constants module",
+  "main": "./mui/mui-color-constants/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vertexsystems/mui-color-constants.git"
+  },
+  "keywords": [
+    "mui",
+    "minimal",
+    "minimalistic",
+    "material",
+    "ui",
+    "react",
+    "color"
+  ],
+  "author": "Chedwick Montoril <chedwick@vertex.systems> (http://vertex.systems)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vertexsystems/mui-color-constants/issues"
+  },
+  "homepage": "https://github.com/vertexsystems/mui-color-constants#readme",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-core": "6.24.1",
+    "babel-eslint": "7.2.3",
+    "babel-loader": "7.1.0",
+    "babel-plugin-dynamic-import-node": "1.0.2",
+    "babel-plugin-react-intl": "2.3.1",
+    "babel-plugin-react-transform": "2.0.2",
+    "babel-plugin-styled-components": "1.1.4",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.24.1",
+    "babel-plugin-transform-react-constant-elements": "6.23.0",
+    "babel-plugin-transform-react-inline-elements": "6.22.0",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.5",
+    "babel-preset-env": "1.5.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "eslint": "3.19.0",
+    "eslint-import-resolver-webpack": "0.8.3",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "5.0.3",
+    "eslint-plugin-react": "7.0.1",
+    "webpack": "3.8.1"
+  }
+}

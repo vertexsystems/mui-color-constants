@@ -1,0 +1,14 @@
+export const pink50 = '#fce4ec';
+export const pink100 = '#f8bbd0';
+export const pink200 = '#f48fb1';
+export const pink300 = '#f06292';
+export const pink400 = '#ec407a';
+export const pink500 = '#e91e63';
+export const pink600 = '#d81b60';
+export const pink700 = '#c2185b';
+export const pink800 = '#ad1457';
+export const pink900 = '#880e4f';
+export const pinkA100 = '#ff80ab';
+export const pinkA200 = '#ff4081';
+export const pinkA400 = '#f50057';
+export const pinkA700 = '#c51162';

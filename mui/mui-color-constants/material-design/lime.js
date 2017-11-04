@@ -1,0 +1,14 @@
+export const lime50 = '#f9fbe7';
+export const lime100 = '#f0f4c3';
+export const lime200 = '#e6ee9c';
+export const lime300 = '#dce775';
+export const lime400 = '#d4e157';
+export const lime500 = '#cddc39';
+export const lime600 = '#c0ca33';
+export const lime700 = '#afb42b';
+export const lime800 = '#9e9d24';
+export const lime900 = '#827717';
+export const limeA100 = '#f4ff81';
+export const limeA200 = '#eeff41';
+export const limeA400 = '#c6ff00';
+export const limeA700 = '#aeea00';
