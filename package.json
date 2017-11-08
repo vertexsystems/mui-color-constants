@@ -1,6 +1,6 @@
 {
   "name": "mui-color-constants",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimalistic user interface color constants module",
   "main": "./mui/mui-color-constants/index.js",
   "repository": {
